@@ -1,0 +1,12 @@
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\obj\Debug\net10.0\ArkaynDAL.csproj.AssemblyReference.cache
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\obj\Debug\net10.0\ArkaynDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\obj\Debug\net10.0\ArkaynDAL.AssemblyInfoInputs.cache
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\obj\Debug\net10.0\ArkaynDAL.AssemblyInfo.cs
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\obj\Debug\net10.0\ArkaynDAL.csproj.CoreCompileInputs.cache
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\bin\Debug\net10.0\ArkaynDAL.deps.json
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\bin\Debug\net10.0\ArkaynDAL.dll
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\bin\Debug\net10.0\ArkaynDAL.pdb
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\obj\Debug\net10.0\ArkaynDAL.dll
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\obj\Debug\net10.0\refint\ArkaynDAL.dll
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\obj\Debug\net10.0\ArkaynDAL.pdb
+D:\Users\Erik\Documents\GitHub\ArkaynDAL\obj\Debug\net10.0\ref\ArkaynDAL.dll

@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\core\\arkaynreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:core\\arkaynreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\interfaces\\iarkaynreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:interfaces\\iarkaynreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\core\\arkaynqueryhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:core\\arkaynqueryhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\core\\arkaynmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:core\\arkaynmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\models\\schemaversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:models\\schemaversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\migrations\\migrationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:migrations\\migrationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\migrations\\imigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:migrations\\imigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\logging\\idallogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:logging\\idallogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\interfaces\\iarkayntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:interfaces\\iarkayntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\interfaces\\iarkaynconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:interfaces\\iarkaynconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\interfaces\\iarkayncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:interfaces\\iarkayncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\core\\arkayntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:core\\arkayntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\core\\arkaynparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:core\\arkaynparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\core\\arkaynconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:core\\arkaynconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|d:\\users\\erik\\documents\\github\\arkayndal\\core\\arkayncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879BF9BE-317C-490F-8366-3C92C6BE0A24}|ArkaynDAL.csproj|solutionrelative:core\\arkayncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArkaynQueryHelpers.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynQueryHelpers.cs",
+              "RelativeDocumentMoniker": "Core\\ArkaynQueryHelpers.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynQueryHelpers.cs",
+              "RelativeToolTip": "Core\\ArkaynQueryHelpers.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T23:28:09.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArkaynMapper.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynMapper.cs",
+              "RelativeDocumentMoniker": "Core\\ArkaynMapper.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynMapper.cs",
+              "RelativeToolTip": "Core\\ArkaynMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T23:27:57.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IArkaynConnection.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Interfaces\\IArkaynConnection.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IArkaynConnection.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Interfaces\\IArkaynConnection.cs",
+              "RelativeToolTip": "Interfaces\\IArkaynConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T22:48:05.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IArkaynReader.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Interfaces\\IArkaynReader.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IArkaynReader.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Interfaces\\IArkaynReader.cs",
+              "RelativeToolTip": "Interfaces\\IArkaynReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T23:00:58.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IArkaynTransaction.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Interfaces\\IArkaynTransaction.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IArkaynTransaction.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Interfaces\\IArkaynTransaction.cs",
+              "RelativeToolTip": "Interfaces\\IArkaynTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T23:01:09.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDalLogger.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Logging\\IDalLogger.cs",
+              "RelativeDocumentMoniker": "Logging\\IDalLogger.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Logging\\IDalLogger.cs",
+              "RelativeToolTip": "Logging\\IDalLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T22:50:47.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMigration.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Migrations\\IMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\IMigration.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Migrations\\IMigration.cs",
+              "RelativeToolTip": "Migrations\\IMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T22:50:59.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MigrationRunner.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Migrations\\MigrationRunner.cs",
+              "RelativeDocumentMoniker": "Migrations\\MigrationRunner.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Migrations\\MigrationRunner.cs",
+              "RelativeToolTip": "Migrations\\MigrationRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T22:51:07.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArkaynReader.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynReader.cs",
+              "RelativeDocumentMoniker": "Core\\ArkaynReader.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynReader.cs",
+              "RelativeToolTip": "Core\\ArkaynReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T22:50:11.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IArkaynCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Interfaces\\IArkaynCommand.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IArkaynCommand.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Interfaces\\IArkaynCommand.cs",
+              "RelativeToolTip": "Interfaces\\IArkaynCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T22:50:34.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchemaVersion.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Models\\SchemaVersion.cs",
+              "RelativeDocumentMoniker": "Models\\SchemaVersion.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Models\\SchemaVersion.cs",
+              "RelativeToolTip": "Models\\SchemaVersion.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T22:49:23.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArkaynTransaction.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynTransaction.cs",
+              "RelativeDocumentMoniker": "Core\\ArkaynTransaction.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynTransaction.cs",
+              "RelativeToolTip": "Core\\ArkaynTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T22:50:23.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArkaynParameter.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynParameter.cs",
+              "RelativeDocumentMoniker": "Core\\ArkaynParameter.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynParameter.cs",
+              "RelativeToolTip": "Core\\ArkaynParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T23:00:45.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArkaynConnection.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynConnection.cs",
+              "RelativeDocumentMoniker": "Core\\ArkaynConnection.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynConnection.cs",
+              "RelativeToolTip": "Core\\ArkaynConnection.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAASwEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T22:49:53.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArkaynCommand.cs",
+              "DocumentMoniker": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynCommand.cs",
+              "RelativeDocumentMoniker": "Core\\ArkaynCommand.cs",
+              "ToolTip": "D:\\Users\\Erik\\Documents\\GitHub\\ArkaynDAL\\Core\\ArkaynCommand.cs",
+              "RelativeToolTip": "Core\\ArkaynCommand.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T22:50:01.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
